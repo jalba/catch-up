@@ -1,0 +1,14 @@
+{
+  "name": "catch-up",
+  "version": "0.1.0",
+  "description": "Handle outdated npm dependencies the sane way: checking first if the updates will break your app or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"called, ok\" && exit 0"
+  },
+  "author": "Javier Alba",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^3.27.0"
+  }
+}
